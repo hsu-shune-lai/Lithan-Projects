@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Hsu Shune Lai\Desktop\Lithan\Module3\Lithan_CSM_WebProject\GoWildWildlifePark\.metadata\.plugins\org.eclipse.jdt.core
